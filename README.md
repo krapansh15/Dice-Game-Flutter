@@ -1,4 +1,4 @@
-#Dice Game - Flutter
+# Dice Game - Flutter
 
 Welcome to the Dice Game, a simple yet fun app built using Flutter! This app is designed to demonstrate the basics of Flutter, including state management, UI design, and interactivity.
 
